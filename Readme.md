@@ -116,7 +116,3 @@ This project is open source and available under the [MIT License](LICENSE).
 
 > Created by Sidhant Ranjan Medhi(https://github.com/sidxboi)
 ```
-
----
-
-Let me know if you’d like me to generate the `train.py` or any other file too!
